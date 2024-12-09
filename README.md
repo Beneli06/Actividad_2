@@ -1,22 +1,17 @@
-<<<<<<< HEAD
-## Getting Started
+DOCUMENTACIÓN 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Solución a los ejercicios planteados EJERCICIOS
 
-## Folder Structure
+ESTRUCTURA SECUENCIAL:18
 
-The workspace contains two folders by default, where:
+Se tiene la siguiente información de un empleado: · código del empleado, · nombres, · número de horas trabajadas al mes, · valor hora trabajada, · porcentaje de retención en la fuente. Haga un algoritmo que muestre: código, nombres, salario bruto y salario neto.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ESTRUCTURA DESICIÓN LÓGICA 11,12,22
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+EJERCICIO 11
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Escribir un algoritmo que acepte tres números enteros diferentes y muestre el mayor de ellos.
 
-## Dependency Management
+EJERCICIO 12 Determinar la cantidad de dinero recibida por un trabajador por concepto de las horas semanales trabajadas en una empresa, sabiendo que cuando las horas de trabajo exceden de 40, el resto se considera horas extras y se pagan al doble de una hora normal, cuando no exceden de 8; si las horas extras exceden de 8, se pagan las primeras 8 al doble de lo que se paga una hora normal y el resto al triple. Del trabajador se conocen los siguientes datos: nombres, número de horas trabajadas en la semana y valor recibido por una hora normal de trabajo.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# Actividad_2
->>>>>>> 4d1b8dc3faa798070d794b62b0039fc362f60060
+EJERCICIO 22 Elaborar un algoritmo que entre el nombre de un empleado, su salario básico por hora y el número de horas trabajadas en el mes; escriba su nombre y salario mensual si éste es mayor de $450.000, de lo contrario escriba sólo el nombre.
